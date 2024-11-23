@@ -118,9 +118,9 @@ namespace wondaRew
                             }
                             Environment.Exit(0);
                         }
-                        catch (Exception ex) { MessageBox.Show(ex.Message); }
+                        catch (Exception ex) { MessageBox.Show(ex.Message); Environment.Exit(0); }
                     }
-                    else { MessageBox.Show("Password should be greater than 5 characters."); }
+                    else { MessageBox.Show("Password should be greater than 5 characters."); Environment.Exit(0); }
                 };
 
 
@@ -161,9 +161,9 @@ namespace wondaRew
                                     }
                                     Environment.Exit(0);
                                 }
-                                catch (Exception ex) { MessageBox.Show(ex.Message); }
+                                catch (Exception ex) { MessageBox.Show(ex.Message); Environment.Exit(0); }
                             }
-                            else { MessageBox.Show("password less than 5."); }
+                            else { MessageBox.Show("password less than 5."); Environment.Exit(0); }
                         };
             }
         }

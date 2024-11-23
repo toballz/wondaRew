@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wondaRew"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="400" ResizeMode="NoResize" Icon="/favicon.ico" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="450" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/favicon.ico">
     <Grid VerticalAlignment="Center" Margin="12">
         <StackPanel x:Name="hashingPanel" Visibility="Hidden"> 
             <Label Content="Info" FontSize="24" HorizontalAlignment="Center"/>
