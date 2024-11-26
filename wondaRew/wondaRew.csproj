@@ -23,4 +23,10 @@
     <Resource Include="favicon.ico" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="n.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

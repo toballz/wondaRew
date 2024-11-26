@@ -1,16 +1,10 @@
-﻿  
-using System.IO; 
-using System.Security.Cryptography; 
-using System.Windows; 
- 
+﻿using System.IO;
+using System.Security.Cryptography;
 
 namespace wondaRew
 {
     internal class C
-    {  
-
-        
-
+    {
         private static byte[] GenerateRandomSalt()
         {
             byte[] data = new byte[32];
