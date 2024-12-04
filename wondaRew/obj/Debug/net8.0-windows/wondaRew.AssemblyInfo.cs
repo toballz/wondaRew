@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wondaRew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a4c7c3f3769d84c929aa6ff123d8820abba818")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad01aac98bb892a0eae716e8d36a0c6ac7761f4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("wondaRew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wondaRew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
